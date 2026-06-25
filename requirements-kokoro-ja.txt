@@ -1,0 +1,5 @@
+kokoro==0.9.4
+misaki[ja]==0.9.4
+soundfile==0.13.1
+torch==2.11.0
+

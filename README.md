@@ -81,6 +81,10 @@ GitHub Pagesで番組ページとRSSを公開しています。
 - 番組ページ: `https://jeffb823.github.io/mimis-podcast/`
 - Apple Podcastsへ登録するRSS: `https://jeffb823.github.io/mimis-podcast/podcast.xml`
 
+## 音声
+
+Morning BriefとDebt Deskと同じKokoro-82Mエンジンを使う日本語音声レンダラーを用意しています。候補音声の比較ページは `voice-auditions.html` です。
+
 ## 編集方針
 
 - 「最新」は生成日の絶対日付とタイムゾーンを基準に確認します。
