@@ -70,7 +70,7 @@ python3 podcast.py audio --script output/2026-06-25/script.txt
 
 ## 第1話
 
-2026年6月25日版は `output/2026-06-25/` にあります。台本、出典付き調査メモ、エピソード情報、約13分26秒のMP3を収録しています。この初回MP3は、APIキーが未設定のため、macOSの日本語音声 Kyoko を使って作成しました。
+2026年6月25日版は `output/2026-06-25/` にあります。台本、出典付き調査メモ、エピソード情報、約14分44秒のMP3を収録しています。この初回MP3は、APIキーが未設定のため、macOSの新しい日本語音声 Shelley を使い、落ち着いた速度で作成しました。
 
 Apple Podcastsへの公開方法は [APPLE_PODCASTS.md](APPLE_PODCASTS.md) を参照してください。
 
