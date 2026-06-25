@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mimi&apos;s Podcast</title>
+    <link>https://jeffb823.github.io/mimis-podcast/</link>
+    <atom:link href="https://jeffb823.github.io/mimis-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <copyright>&#xA9; 2026 Mimi&apos;s Podcast</copyright>
+    <description>海辺のバージニアビーチと古都・京都をつなぐ、日本語の朝のニュース番組。アメリカ国内、バージニアビーチ、京都、大相撲、ロサンゼルス・ドジャース、成熟女性の健康、日本語学習書の話題を、やわらかな京都のことばでコンパクトにお届けします。</description>
+    <itunes:author>Mimi</itunes:author>
+    <itunes:summary>海辺のバージニアビーチと古都・京都をつなぐ、日本語の朝のニュース番組です。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
+    </itunes:category>
+    <image>
+      <url>https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg</url>
+      <title>Mimi&apos;s Podcast</title>
+      <link>https://jeffb823.github.io/mimis-podcast/</link>
+    </image>
+    <lastBuildDate>Thu, 25 Jun 2026 19:00:00 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年6月25日：米最高裁、京都の地震、ドジャース3連勝</title>
+      <description>米最高裁の移民・銃規制判断、バージニアビーチの7月1日の変更、京都府南部の地震、大相撲、ドジャース、デトックスと更年期、日本語学習書の新刊をお届けします。</description>
+      <content:encoded><![CDATA[
+        <p>米最高裁の移民・銃規制判断、バージニアビーチの7月1日の変更、京都府南部の地震、大相撲、ドジャース、デトックスと更年期、日本語学習書の新刊をお届けします。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-06-25</link>
+      <guid isPermaLink="false">mimis-podcast-2026-06-25-001</guid>
+      <pubDate>Thu, 25 Jun 2026 18:00:00 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-06-25/episode.mp3"
+        length="12905517"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>13:26</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
+  </channel>
+</rss>

@@ -2,7 +2,7 @@
 
 このプロジェクトはGitHub Pagesで音声とRSSフィードをセルフホストしています。Apple Podcasts Connectへ入力するURLは次のとおりです。
 
-`https://jeffb823.github.io/mimis-podcast/feed.xml`
+`https://jeffb823.github.io/mimis-podcast/podcast.xml`
 
 ## 1. 配信サービスを用意する
 
