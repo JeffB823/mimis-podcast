@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mimi's Podcast</title>
+  <meta name="description" content="バージニアビーチと京都をつなぐ、日本語の朝のニュース番組。">
+  <link rel="alternate" type="application/rss+xml" title="Mimi's Podcast RSS" href="feed.xml">
+  <style>
+    :root { color-scheme: light; font-family: ui-serif, Georgia, "Yu Mincho", serif; }
+    body { margin: 0; background: #f8f1e4; color: #142650; }
+    main { width: min(92%, 760px); margin: 0 auto; padding: 48px 0 72px; }
+    .cover { display: block; width: min(100%, 520px); margin: 0 auto 32px; border-radius: 24px; box-shadow: 0 18px 50px #14265033; }
+    h1 { margin-bottom: 8px; font-size: clamp(2rem, 7vw, 4.5rem); text-align: center; }
+    .tagline { margin: 0 auto 40px; text-align: center; font-size: 1.15rem; }
+    article { padding: 28px; background: #fffaf2; border: 1px solid #d8c6a4; border-radius: 18px; }
+    h2 { margin-top: 0; line-height: 1.35; }
+    audio { width: 100%; margin: 14px 0; }
+    .links { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 26px; }
+    a { color: #17386f; }
+    .button { padding: 12px 16px; border: 1px solid #17386f; border-radius: 999px; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <main>
+    <img class="cover" src="artwork/mimis-podcast-cover-3000.jpg" alt="Mimi's Podcast cover">
+    <h1>Mimi's Podcast</h1>
+    <p class="tagline">海辺と古都をつなぐ、朝のひととき</p>
+
+    <article id="episode-2026-06-25">
+      <h2>2026年6月25日：米最高裁、京都の地震、ドジャース3連勝</h2>
+      <p>アメリカ国内、バージニアビーチ、京都、大相撲、ドジャース、成熟女性の健康、日本語学習書の話題をお届けします。</p>
+      <audio controls preload="metadata">
+        <source src="output/2026-06-25/episode.mp3" type="audio/mpeg">
+      </audio>
+      <p><a href="output/2026-06-25/script.txt">日本語の台本を読む</a></p>
+    </article>
+
+    <nav class="links" aria-label="Podcast links">
+      <a class="button" href="feed.xml">RSSフィード</a>
+      <a class="button" href="https://github.com/JeffB823/mimis-podcast">GitHub</a>
+    </nav>
+  </main>
+</body>
+</html>

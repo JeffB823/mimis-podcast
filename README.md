@@ -74,6 +74,13 @@ python3 podcast.py audio --script output/2026-06-25/script.txt
 
 Apple Podcastsへの公開方法は [APPLE_PODCASTS.md](APPLE_PODCASTS.md) を参照してください。
 
+## 公開RSSフィード
+
+GitHub Pagesで番組ページとRSSを公開しています。
+
+- 番組ページ: `https://jeffb823.github.io/mimis-podcast/`
+- Apple Podcastsへ登録するRSS: `https://jeffb823.github.io/mimis-podcast/feed.xml`
+
 ## 編集方針
 
 - 「最新」は生成日の絶対日付とタイムゾーンを基準に確認します。
