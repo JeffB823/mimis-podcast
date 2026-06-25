@@ -1,0 +1,21 @@
+{
+  "show_name": "ミミのポッドキャスト",
+  "show_name_english": "Mimi's Podcast",
+  "tagline": "海辺と古都をつなぐ、朝のひととき",
+  "timezone": "America/New_York",
+  "target_minutes": 14,
+  "research_model": "gpt-5.5",
+  "script_model": "gpt-5.4-mini",
+  "speech_model": "gpt-4o-mini-tts-2025-12-15",
+  "voice": "cedar",
+  "audio_format": "mp3",
+  "national_news_country": "United States",
+  "book_review_scope": "recent books and new editions for learning the Japanese language",
+  "web_search_location": {
+    "type": "approximate",
+    "country": "US",
+    "city": "Virginia Beach",
+    "region": "Virginia"
+  },
+  "tts_instructions": "Voice Affect: Warm, composed, mature, and companionable. Tone: A polished Japanese morning-radio host. Pacing: Unhurried but concise, with brief pauses between sections. Accent: Speak clear standard Japanese with a light, natural Kyoto cadence and occasional gentle Kyoto phrasing; never caricature or exaggerate the dialect. Pronunciation: Carefully pronounce Japanese, American, baseball, sumo, medical, and book titles. Delivery: Calmly distinguish confirmed facts, analysis, and medical cautions."
+}
