@@ -70,7 +70,7 @@ python3 podcast.py audio --script output/2026-06-25/script.txt
 
 ## 最新エピソード
 
-2026年6月26日版は `output/2026-06-26/` にあります。台本、出典付き調査メモ、エピソード情報、約9分33秒のMP3を収録しています。音声はMorning BriefとDebt Deskと同じKokoro-82Mエンジンを使い、ミミを `jf_nezumi`、健司を `am_michael` でレンダリングしています。
+2026年6月26日版は `output/2026-06-26/` にあります。台本、出典付き調査メモ、エピソード情報、約15分44秒のMP3を収録しています。音声はMorning BriefとDebt Deskと同じKokoro-82Mエンジンを使い、ミミを `jf_nezumi`、健司を `am_michael` でレンダリングしています。
 
 Apple Podcastsへの公開方法は [APPLE_PODCASTS.md](APPLE_PODCASTS.md) を参照してください。
 
@@ -83,7 +83,7 @@ GitHub Pagesで番組ページとRSSを公開しています。
 
 ## 音声
 
-Morning BriefとDebt Deskと同じKokoro-82Mエンジンを使う日本語音声レンダラーを用意しています。二人会話形式では、`ミミ：` と `健司：` の話者ラベルを読み取り、ミミを `jf_nezumi`、健司を `am_michael` でレンダリングします。候補音声の比較ページは `voice-auditions.html` です。
+Morning BriefとDebt Deskと同じKokoro-82Mエンジンを使う日本語音声レンダラーを用意しています。二人会話形式では、`ミミ：` と `健司：` の話者ラベルを読み取り、ミミを `jf_nezumi`、健司を `am_michael` でレンダリングします。`[warmly]` などの演出メモは読み上げ前に削除し、`[pause 0.6s]` などのポーズ指定は実際の無音に変換します。候補音声の比較ページは `voice-auditions.html` です。
 
 ## 編集方針
 

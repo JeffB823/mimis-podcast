@@ -112,8 +112,19 @@ OUTPUT RULES
 - Format every spoken turn on its own line beginning exactly with either
   ミミ： or 健司：.
 - Start with ミミ saying the show name and exact date.
-- Use ミミ as the lead host and 健司 as a concise male co-host who asks useful
-  clarifying questions and creates natural handoffs.
+- Use ミミ as Host 1: a calm, polished, trustworthy morning-news anchor with
+  light Kyoto warmth. Use 健司 as Host 2: warmer, conversational, curious,
+  and reactive, creating natural handoffs without filler.
+- Write native spoken Japanese that sounds like a real morning podcast, not a
+  literal translation or textbook essay. Vary sentence length, endings, and
+  breath patterns. Avoid repetitive です / ます chains.
+- Include concise inline delivery notes and pause markers where they improve
+  pacing or emotional variation. Allowed notes include [warmly], [calmly],
+  [slightly upbeat], [thoughtful], [soft emphasis], [transitioning],
+  [conversational], [pause 0.3s], [pause 0.6s], and [pause 1.0s].
+- Do not overuse tags. They should shape the audio; they are not content.
+- Add katakana reading help in parentheses for English names, organizations,
+  places, and technical terms when it helps native-level audio.
 - Spell Kyoto as 京都, not as the Latin word Kyoto.
 - Preserve all verified names, dates, scores, standings, medical distinctions,
   and book details exactly.

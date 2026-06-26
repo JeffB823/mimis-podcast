@@ -11,6 +11,7 @@
   "female_voice": "jf_nezumi",
   "male_voice": "am_michael",
   "voice_engine": "kokoro",
+  "kokoro_speed": 0.94,
   "audio_format": "mp3",
   "national_news_country": "United States",
   "book_review_scope": "recent books and new editions for learning the Japanese language",

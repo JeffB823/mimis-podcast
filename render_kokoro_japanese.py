@@ -4,8 +4,11 @@
 The renderer supports either a single narrator or a light two-host transcript
 using speaker labels such as:
 
-    ミミ：おはようさんです。
-    健司：今朝のポイントを見ていきましょう。
+    ミミ：[warmly] おはようさんです。[pause 0.6s]
+    健司：[thoughtful] 今朝のポイントを見ていきましょう。
+
+Inline delivery notes are stripped before synthesis. Pause markers become real
+silence, using forms like [pause 0.3s], [pause 0.6s], or [pause 1.0s].
 """
 
 from __future__ import annotations
@@ -46,6 +49,8 @@ SPEAKER_LABELS = {
     "Kenji": "male",
     "kenji": "male",
 }
+PAUSE_PATTERN = re.compile(r"\[pause\s+([0-9]+(?:\.[0-9]+)?)s\]", re.IGNORECASE)
+DELIVERY_NOTE_PATTERN = re.compile(r"\[(?!pause\s+[0-9]+(?:\.[0-9]+)?s\])[^\]]+\]")
 
 
 def prepare_japanese_pipeline() -> KPipeline:
@@ -89,6 +94,30 @@ def pronunciation_overrides(text: str) -> str:
     return text
 
 
+def normalize_directed_text(text: str) -> str:
+    text = DELIVERY_NOTE_PATTERN.sub("", text)
+    text = re.sub(r"[ \t]{2,}", " ", text)
+    text = re.sub(r"\s+([、。！？])", r"\1", text)
+    return text.strip()
+
+
+def directed_text_parts(text: str) -> list[str | float]:
+    """Split text into spoken strings and pause durations."""
+
+    parts: list[str | float] = []
+    cursor = 0
+    for match in PAUSE_PATTERN.finditer(text):
+        spoken = normalize_directed_text(text[cursor : match.start()])
+        if spoken:
+            parts.append(spoken)
+        parts.append(float(match.group(1)))
+        cursor = match.end()
+    spoken = normalize_directed_text(text[cursor:])
+    if spoken:
+        parts.append(spoken)
+    return parts
+
+
 def synthesize_to_tensor(
     pipeline: KPipeline,
     text: str,
@@ -111,8 +140,15 @@ def synthesize_to_tensor(
 
 def synthesize(text: str, voice: str, speed: float, wav_path: Path) -> None:
     pipeline = prepare_japanese_pipeline()
-    audio = synthesize_to_tensor(pipeline, text, voice, speed)
-    sf.write(wav_path, audio.numpy(), SAMPLE_RATE)
+    pieces: list[torch.Tensor] = []
+    for part in directed_text_parts(text):
+        if isinstance(part, float):
+            pieces.append(torch.zeros(int(SAMPLE_RATE * part)))
+        else:
+            pieces.append(synthesize_to_tensor(pipeline, part, voice, speed))
+    if not pieces:
+        raise RuntimeError("No audio generated.")
+    sf.write(wav_path, torch.cat(pieces).numpy(), SAMPLE_RATE)
 
 
 def parse_dialogue(text: str) -> list[tuple[str, str]]:
@@ -154,7 +190,11 @@ def synthesize_dialogue(
     pause = torch.zeros(int(SAMPLE_RATE * 0.22))
     for speaker, spoken in parse_dialogue(text):
         voice = male_voice if speaker == "male" else female_voice
-        pieces.append(synthesize_to_tensor(pipeline, spoken, voice, speed))
+        for part in directed_text_parts(spoken):
+            if isinstance(part, float):
+                pieces.append(torch.zeros(int(SAMPLE_RATE * part)))
+            else:
+                pieces.append(synthesize_to_tensor(pipeline, part, voice, speed))
         pieces.append(pause)
     if not pieces:
         raise RuntimeError("No dialogue audio generated.")
