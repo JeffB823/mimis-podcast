@@ -106,10 +106,15 @@ VERIFIED RESEARCH DOSSIER
 {research}
 
 OUTPUT RULES
-- Output only the words the host should speak.
+- Output only the words the two hosts should speak.
 - Write entirely in natural spoken Japanese.
 - Do not output headings, bullets, citations, URLs, markdown, or stage directions.
-- Start with the show name and exact date.
+- Format every spoken turn on its own line beginning exactly with either
+  ミミ： or 健司：.
+- Start with ミミ saying the show name and exact date.
+- Use ミミ as the lead host and 健司 as a concise male co-host who asks useful
+  clarifying questions and creates natural handoffs.
+- Spell Kyoto as 京都, not as the Latin word Kyoto.
 - Preserve all verified names, dates, scores, standings, medical distinctions,
   and book details exactly.
 - If the research dossier lacks a verified item, omit it; never fill gaps from memory.
@@ -233,9 +238,37 @@ def chunk_text(text: str, limit: int = 3800) -> list[str]:
 
 
 def synthesize_audio(config: dict[str, Any], script_path: Path) -> Path:
-    require_api_key()
     if not script_path.exists():
         raise SystemExit(f"Script not found: {script_path}")
+
+    if config.get("voice_engine") == "kokoro":
+        final_path = script_path.parent / f"episode.{config['audio_format']}"
+        env = os.environ.copy()
+        env.setdefault("HF_HOME", "/Users/jeffbechtel/Morrning Brief GPT/.hf-cache")
+        python = env.get(
+            "MIMIS_KOKORO_PYTHON",
+            "/Users/jeffbechtel/Morrning Brief GPT/.venv-kokoro/bin/python",
+        )
+        subprocess.run(
+            [
+                python,
+                str(ROOT / "render_kokoro_japanese.py"),
+                str(script_path),
+                str(final_path),
+                "--dialogue",
+                "--female-voice",
+                config.get("female_voice", "jf_nezumi"),
+                "--male-voice",
+                config.get("male_voice", "am_michael"),
+                "--speed",
+                str(config.get("kokoro_speed", 0.96)),
+            ],
+            env=env,
+            check=True,
+        )
+        return final_path
+
+    require_api_key()
 
     from openai import OpenAI
 
