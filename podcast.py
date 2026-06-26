@@ -129,10 +129,12 @@ OUTPUT RULES
 - Write native spoken Japanese that sounds like a real morning podcast, not a
   literal translation or textbook essay. Vary sentence length, endings, and
   breath patterns. Avoid repetitive です / ます chains.
-- Include concise inline delivery notes and pause markers where they improve
-  pacing or emotional variation. Allowed notes include [warmly], [calmly],
+- Include concise inline delivery notes and only occasional section-break
+  pause markers where they improve pacing or emotional variation. Allowed notes include [warmly], [calmly],
   [slightly upbeat], [thoughtful], [soft emphasis], [transitioning],
-  [conversational], [pause 0.3s], [pause 0.6s], and [pause 1.0s].
+  [conversational], [pause 0.6s], and [pause 1.0s].
+- Do not use short micro-pause tags such as [pause 0.3s]. Let punctuation and
+  natural phrasing handle short breaths.
 - Do not overuse tags. They should shape the audio; they are not content.
 - Add katakana reading help in parentheses for English names, organizations,
   places, and technical terms when it helps native-level audio.

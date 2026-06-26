@@ -33,10 +33,11 @@ The show promise is: 50代からの朝に、ニュースとからだをやさし
   9. ミミのひとこと, a brief reflective close for women in midlife
 - Do not read URLs, citations, or markdown aloud.
 - Write every spoken turn on its own line beginning exactly with either `ミミ：` or `健司：`.
-- Add concise inline voice direction and pause markers when useful. These are for audio production and are stripped before synthesis:
+- Add concise inline voice direction and only occasional section-break pause markers when useful. These are for audio production and are stripped before synthesis:
   - Delivery notes: `[warmly]`, `[calmly]`, `[slightly upbeat]`, `[thoughtful]`, `[soft emphasis]`, `[transitioning]`, `[conversational]`
-  - Pauses: `[pause 0.3s]`, `[pause 0.6s]`, `[pause 1.0s]`
-- Do not over-tag. Use tags to shape rhythm, emotional variation, and section transitions, not every sentence.
+  - Pauses: `[pause 0.6s]`, `[pause 1.0s]`
+- Do not use short micro-pause tags such as `[pause 0.3s]`; they make the transcript feel cluttered. Let punctuation and natural phrasing handle short breaths.
+- Do not over-tag. Use tags to shape section transitions and occasional emotional variation, not every sentence.
 
 ## Language and Kyoto character
 
