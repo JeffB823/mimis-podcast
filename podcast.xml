@@ -9,9 +9,9 @@
     <atom:link href="https://jeffb823.github.io/mimis-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <copyright>&#xA9; 2026 Mimi&apos;s Podcast</copyright>
-    <description>海辺のバージニアビーチと古都・京都をつなぐ、日本語の朝のニュース番組。アメリカ国内、バージニアビーチ、京都、大相撲、ロサンゼルス・ドジャース、成熟女性の健康、日本語学習書の話題を、やわらかな京都のことばでコンパクトにお届けします。</description>
+    <description>50代からの女性の朝に、ニュース、健康、京都、スポーツ、日本語学習をやさしく整える日本語ポッドキャスト。アメリカと日本の動き、バージニアビーチと京都の暮らし、更年期のからだノートを、ミミの落ち着いた声でお届けします。</description>
     <itunes:author>Mimi</itunes:author>
-    <itunes:summary>海辺のバージニアビーチと古都・京都をつなぐ、日本語の朝のニュース番組です。</itunes:summary>
+    <itunes:summary>50代からの女性の朝に、ニュース、健康、京都、スポーツ、日本語学習をやさしく整える日本語ポッドキャストです。</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
@@ -23,23 +23,23 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Fri, 26 Jun 2026 06:18:03 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 15:25:06 -0400</lastBuildDate>
 
     <item>
       <title>2026年6月26日：米選挙命令差し止め、京都の揺れ、ドジャース球宴先発</title>
-      <description>米連邦判事と最高裁の重要判断、バージニアビーチの新予算と料金改定、京都府南部の地震、大相撲、ドジャース、更年期とデトックス、日本語学習書の新刊をお届けします。</description>
+      <description>50代からの朝に向けて、米連邦判事と最高裁の重要判断、バージニアビーチの新予算、京都府南部の地震、ドジャース、更年期とデトックス、日本語学習書を落ち着いて整理します。</description>
       <content:encoded><![CDATA[
-        <p>米連邦判事と最高裁の重要判断、バージニアビーチの新予算と料金改定、京都府南部の地震、大相撲、ドジャース、更年期とデトックス、日本語学習書の新刊をお届けします。</p>
+        <p>50代からの朝に向けて、米連邦判事と最高裁の重要判断、バージニアビーチの新予算、京都府南部の地震、ドジャース、更年期とデトックス、日本語学習書を落ち着いて整理します。</p>
       ]]></content:encoded>
       <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-06-26</link>
       <guid isPermaLink="false">mimis-podcast-2026-06-26</guid>
       <pubDate>Fri, 26 Jun 2026 06:18:03 -0400</pubDate>
       <enclosure
         url="https://jeffb823.github.io/mimis-podcast/output/2026-06-26/episode.mp3"
-        length="11332269"
+        length="13053069"
         type="audio/mpeg"/>
       <itunes:author>Mimi</itunes:author>
-      <itunes:duration>15:44</itunes:duration>
+      <itunes:duration>18:08</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>

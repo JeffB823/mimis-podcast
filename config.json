@@ -1,9 +1,9 @@
 {
   "show_name": "ミミのポッドキャスト",
   "show_name_english": "Mimi's Podcast",
-  "tagline": "海辺と古都をつなぐ、朝のひととき",
+  "tagline": "50代からの朝に、ニュースとからだをやさしく整える",
   "timezone": "America/New_York",
-  "target_minutes": 14,
+  "target_minutes": 16,
   "research_model": "gpt-5.5",
   "script_model": "gpt-5.4-mini",
   "speech_model": "gpt-4o-mini-tts-2025-12-15",

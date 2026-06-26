@@ -98,6 +98,8 @@ SHOW CONFIGURATION
 - Target runtime: {config['target_minutes']} minutes
 - National news means: {config['national_news_country']}
 - Book scope: {config['book_review_scope']}
+- Primary listener: Japanese-speaking women in their 50s who want a calm,
+  intelligent morning companion that helps them feel informed and steadier.
 
 EDITORIAL SPECIFICATION
 {editorial}
@@ -112,9 +114,18 @@ OUTPUT RULES
 - Format every spoken turn on its own line beginning exactly with either
   ミミ： or 健司：.
 - Start with ミミ saying the show name and exact date.
-- Use ミミ as Host 1: a calm, polished, trustworthy morning-news anchor with
-  light Kyoto warmth. Use 健司 as Host 2: warmer, conversational, curious,
-  and reactive, creating natural handoffs without filler.
+- Start with a short emotional morning check-in before the headline preview.
+- Use ミミ as Host 1: the emotional center, a calm, polished, trustworthy
+  morning companion with light Kyoto warmth. Use 健司 as Host 2: warmer,
+  conversational, curious, and reactive; he should act as the listener proxy
+  by asking practical questions and creating natural handoffs without filler.
+- Shape the program for Japanese-speaking women in their 50s. Make it feel
+  like a morning reset, not generic news. The listener should come away
+  thinking: "I feel informed, and Mimi understands this stage of life."
+- Include a signature health segment called 50代からのからだノート with one
+  small evidence-safe practical takeaway for today.
+- End with three short takeaways, then a brief recurring reflection called
+  ミミのひとこと.
 - Write native spoken Japanese that sounds like a real morning podcast, not a
   literal translation or textbook essay. Vary sentence length, endings, and
   breath patterns. Avoid repetitive です / ます chains.
