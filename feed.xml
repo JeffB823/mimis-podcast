@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Fri, 26 Jun 2026 15:25:06 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 10:48:57 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年6月27日：米物価の今、京都の夏支度、デトックスを見直す朝</title>
+      <description>アメリカの物価と安全保障、バージニアビーチの祝日前の動き、京都の夏前の整え、大相撲、ドジャース、更年期とデトックス、日本語学習書をやさしく整理します。</description>
+      <content:encoded><![CDATA[
+        <p>アメリカの物価と安全保障、バージニアビーチの祝日前の動き、京都の夏前の整え、大相撲、ドジャース、更年期とデトックス、日本語学習書をやさしく整理します。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-06-27</link>
+      <guid isPermaLink="false">mimis-podcast-2026-06-27</guid>
+      <pubDate>Sat, 27 Jun 2026 10:48:57 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-06-27/episode.mp3"
+        length="10342989"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>14:22</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年6月26日：米選挙命令差し止め、京都の揺れ、ドジャース球宴先発</title>
