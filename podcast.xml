@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sat, 27 Jun 2026 10:48:57 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 09:09:41 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年6月28日：海辺の予定、京都の夏入り、からだを急がせない朝</title>
+      <description>中東発の緊張と米医療保険の数字、バージニアビーチの祝日前の実務、京都の夏の足音、ドジャース、そしてデトックスに急がされない更年期との向き合い方をやさしく整理します。</description>
+      <content:encoded><![CDATA[
+        <p>中東発の緊張と米医療保険の数字、バージニアビーチの祝日前の実務、京都の夏の足音、ドジャース、そしてデトックスに急がされない更年期との向き合い方をやさしく整理します。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-06-28</link>
+      <guid isPermaLink="false">mimis-podcast-2026-06-28</guid>
+      <pubDate>Sun, 28 Jun 2026 09:09:41 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-06-28/episode.mp3"
+        length="10035981"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>13:56</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年6月27日：米物価の今、京都の夏支度、デトックスを見直す朝</title>
