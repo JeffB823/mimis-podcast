@@ -76,7 +76,7 @@ Source standards:
 - Health: prioritize FDA, NIH, CDC, womenshealth.gov, menopause.org, ACOG,
   peer-reviewed journals, and major academic medical centers. Do not validate
   detox marketing claims without clinical evidence.
-- Books: distinguish independent reviews from publisher marketing.
+- Books: cover new Japanese-language novels; distinguish independent reviews from publisher marketing.
 
 End with a compact fact-check table listing names, dates, scores, records,
 rankings, medical claims, and book publication details that the script writer

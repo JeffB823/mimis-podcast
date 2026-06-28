@@ -14,7 +14,7 @@
   "kokoro_speed": 0.94,
   "audio_format": "mp3",
   "national_news_country": "United States",
-  "book_review_scope": "recent books and new editions for learning the Japanese language",
+  "book_review_scope": "recent Japanese-language novels and substantive reviews of new literary releases",
   "web_search_location": {
     "type": "approximate",
     "country": "US",

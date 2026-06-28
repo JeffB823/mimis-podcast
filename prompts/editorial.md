@@ -28,7 +28,7 @@ The show promise is: 50代からの朝に、ニュースとからだをやさし
   4. Kyoto/Japan culture and local life
   5. Sumo and Dodgers as lighter energy
   6. 50代からのからだノート, with one practical evidence-safe takeaway
-  7. Japanese-learning book note
+  7. Japanese-language novel note
   8. three short takeaways
   9. ミミのひとこと, a brief reflective close for women in midlife
 - Do not read URLs, citations, or markdown aloud.
@@ -96,9 +96,15 @@ This segment is educational, not personalized medical advice.
 - Include one small evidence-safe action the listener can consider today, such as noticing sleep triggers, writing down symptoms, checking medication interactions, or preparing questions for a clinician.
 - Do not shame weight, aging, symptoms, fatigue, mood changes, libido changes, or body changes.
 
-### Japanese-language learning book reviews
+### Japanese-language novels and reviews
 
-Interpret this category as recent books, new editions, and substantial new reviews of books for learning Japanese. State the learner level, focus, strengths, limitations, and best-fit reader. Distinguish independent reviews from publisher descriptions.
+Interpret this category as recent Japanese-language novels, newly released literary fiction, and substantive new reviews of those works.
+
+- Prefer publisher pages for confirmed publication details and reputable reviews from major Japanese newspapers, magazines, literary outlets, or booksellers with meaningful editorial commentary.
+- State the author, exact publication date when confirmed, genre or literary lane, the novel's premise or thematic concern, and the best-fit reader.
+- Distinguish clearly between publisher copy, prize/press framing, and independent critical assessment.
+- Do not invent reception, sales, rankings, review consensus, or quotations.
+- If there is no substantial fresh review or meaningful new release detail, say so briefly rather than forcing the segment.
 
 ## Spoken copy
 
