@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Tue, 30 Jun 2026 06:12:01 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 06:30:09 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月1日：法の節目と夏の足もと、からだをあわてさせない朝</title>
+      <description>米最高裁の大きな判決、バージニアビーチと京都の夏の段取り、大相撲とドジャース、そしてデトックスに急がされない更年期の整え方をやさしく整理します。</description>
+      <content:encoded><![CDATA[
+        <p>米最高裁の大きな判決、バージニアビーチと京都の夏の段取り、大相撲とドジャース、そしてデトックスに急がされない更年期の整え方をやさしく整理します。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-01</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-01</guid>
+      <pubDate>Wed, 01 Jul 2026 06:30:09 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-01/episode.mp3"
+        length="11526669"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:00</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年6月30日：法廷の線引きと夏の段取り、からだを急がせない朝</title>
