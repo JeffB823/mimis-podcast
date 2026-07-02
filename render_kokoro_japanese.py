@@ -51,6 +51,7 @@ SPEAKER_LABELS = {
 }
 PAUSE_PATTERN = re.compile(r"\[pause\s+([0-9]+(?:\.[0-9]+)?)s\]", re.IGNORECASE)
 DELIVERY_NOTE_PATTERN = re.compile(r"\[(?!pause\s+[0-9]+(?:\.[0-9]+)?s\])[^\]]+\]")
+SENTENCE_SPLIT_PATTERN = re.compile(r"(?<=[。！？!?])\s+")
 
 
 def prepare_japanese_pipeline() -> KPipeline:
@@ -118,6 +119,33 @@ def directed_text_parts(text: str) -> list[str | float]:
     return parts
 
 
+def split_spoken_chunks(text: str, max_chars: int = 45) -> list[str]:
+    """Break long Japanese narration into synthesis-friendly chunks.
+
+    Kokoro's Japanese pipeline can become extremely slow on long paragraphs.
+    We preserve explicit newlines first, then further split each line on major
+    sentence punctuation while keeping short adjacent sentences together.
+    """
+
+    chunks: list[str] = []
+    for line in text.splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        sentences = [s.strip() for s in SENTENCE_SPLIT_PATTERN.split(line) if s.strip()]
+        if not sentences:
+            continue
+        current = sentences[0]
+        for sentence in sentences[1:]:
+            if len(current) + 1 + len(sentence) <= max_chars:
+                current = f"{current} {sentence}"
+            else:
+                chunks.append(current)
+                current = sentence
+        chunks.append(current)
+    return chunks
+
+
 def synthesize_to_tensor(
     pipeline: KPipeline,
     text: str,
@@ -125,14 +153,15 @@ def synthesize_to_tensor(
     speed: float,
 ) -> torch.Tensor:
     chunks: list[torch.Tensor] = []
-    for result in pipeline(
-        pronunciation_overrides(text),
-        voice=voice,
-        speed=speed,
-        split_pattern=r"\n+",
-    ):
-        if result.audio is not None:
-            chunks.append(result.audio.detach().cpu())
+    for spoken_chunk in split_spoken_chunks(pronunciation_overrides(text)):
+        for result in pipeline(
+            spoken_chunk,
+            voice=voice,
+            speed=speed,
+            split_pattern=r"\n+",
+        ):
+            if result.audio is not None:
+                chunks.append(result.audio.detach().cpu())
     if not chunks:
         raise RuntimeError(f"No audio generated using Kokoro voice {voice}")
     return torch.cat(chunks)

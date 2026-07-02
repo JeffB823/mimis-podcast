@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Wed, 01 Jul 2026 06:30:09 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:50:52 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月2日：暑さの段取りと祇園祭の足音、からだを急がせない朝</title>
+      <description>米雇用統計と家計の足もと、バージニアビーチの暑さ対策、祇園祭の動き、大相撲とドジャース、そしてクレンズに急がされない更年期の整え方をやさしく整理します。</description>
+      <content:encoded><![CDATA[
+        <p>米雇用統計と家計の足もと、バージニアビーチの暑さ対策、祇園祭の動き、大相撲とドジャース、そしてクレンズに急がされない更年期の整え方をやさしく整理します。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-02</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-02</guid>
+      <pubDate>Thu, 02 Jul 2026 17:50:52 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-02/episode.mp3"
+        length="12543021"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>17:25</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年7月1日：法の節目と夏の足もと、からだをあわてさせない朝</title>
