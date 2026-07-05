@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sat, 04 Jul 2026 06:10:18 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 06:28:13 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月5日：祝日の余韻と祇園祭の順番、からだを戻す日曜日</title>
+      <description>独立二百五十年の翌朝の天気と暑さ、バージニアビーチの実務、祇園祭の山鉾巡行の順番、山本由伸の好投、そしてデトックスに急がない日曜の整え方をやさしく整理します。</description>
+      <content:encoded><![CDATA[
+        <p>独立二百五十年の翌朝の天気と暑さ、バージニアビーチの実務、祇園祭の山鉾巡行の順番、山本由伸の好投、そしてデトックスに急がない日曜の整え方をやさしく整理します。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-05</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-05</guid>
+      <pubDate>Sun, 05 Jul 2026 06:28:13 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-05/episode.mp3"
+        length="10825101"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:02</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年7月4日：熱い祝日と祇園祭の段取り、からだを空っぽにしない朝</title>
