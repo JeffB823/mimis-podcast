@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sun, 05 Jul 2026 06:28:13 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 07:55:33 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月6日：熱波のあと始末と京都の夏支度、からだを急がせない月曜</title>
+      <description>アメリカの熱波と停電の実務、バージニアビーチの夏の動線、京都の駅前イベントと上七軒の盆踊り、大相撲七月場所の土俵祭、ドジャース、そしてデトックスより先に更年期の輪郭を見る朝をやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>アメリカの熱波と停電の実務、バージニアビーチの夏の動線、京都の駅前イベントと上七軒の盆踊り、大相撲七月場所の土俵祭、ドジャース、そしてデトックスより先に更年期の輪郭を見る朝をやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-06</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-06</guid>
+      <pubDate>Mon, 06 Jul 2026 07:55:33 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-06/episode.mp3"
+        length="11526381"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:00</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年7月5日：祝日の余韻と祇園祭の順番、からだを戻す日曜日</title>
