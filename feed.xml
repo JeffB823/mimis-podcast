@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Mon, 06 Jul 2026 07:55:33 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 07:39:23 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月7日：雨のあとと京都の混雑対策、からだを罰しない火曜</title>
+      <description>熱波のあとに来た大雨、バージニアビーチの足もと、京都の秋の混雑対策、大相撲とドジャース、そしてデトックスに急がない更年期の整え方をやさしくまとめます。</description>
+      <content:encoded><![CDATA[
+        <p>熱波のあとに来た大雨、バージニアビーチの足もと、京都の秋の混雑対策、大相撲とドジャース、そしてデトックスに急がない更年期の整え方をやさしくまとめます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-07</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-07</guid>
+      <pubDate>Tue, 07 Jul 2026 07:39:23 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-07/episode.mp3"
+        length="11624013"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:09</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年7月6日：熱波のあと始末と京都の夏支度、からだを急がせない月曜</title>
