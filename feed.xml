@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Tue, 07 Jul 2026 07:39:23 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:22:56 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月8日：値段の気配と京都の支え、焦らず整える水曜</title>
+      <description>原油高の気配、バージニアビーチの蚊対策、京都の聞こえとごみ出し支援、大谷翔平の三百号、そしてクレンズに急がない朝の整え方をやさしくまとめます。</description>
+      <content:encoded><![CDATA[
+        <p>原油高の気配、バージニアビーチの蚊対策、京都の聞こえとごみ出し支援、大谷翔平の三百号、そしてクレンズに急がない朝の整え方をやさしくまとめます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-08</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-08</guid>
+      <pubDate>Wed, 08 Jul 2026 07:22:56 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-08/episode.mp3"
+        length="11965005"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:37</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年7月7日：雨のあとと京都の混雑対策、からだを罰しない火曜</title>
