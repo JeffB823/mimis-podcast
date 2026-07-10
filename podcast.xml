@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Thu, 09 Jul 2026 08:08:48 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 06:25:35 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月10日：見えない負担を軽くする、金曜の朝支度</title>
+      <description>中東情勢と金利の揺れ、バージニアビーチの地域と支援、京都の感染警報と水の催し、相撲とドジャース、そしてデトックスに急がない整え方をやさしくまとめます。</description>
+      <content:encoded><![CDATA[
+        <p>中東情勢と金利の揺れ、バージニアビーチの地域と支援、京都の感染警報と水の催し、相撲とドジャース、そしてデトックスに急がない整え方をやさしくまとめます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-10</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-10</guid>
+      <pubDate>Fri, 10 Jul 2026 06:25:35 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-10/episode.mp3"
+        length="11894157"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:31</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年7月9日：値段の揺れと京都の警報、急がず整える木曜</title>
