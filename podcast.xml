@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Fri, 10 Jul 2026 06:25:35 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 06:25:30 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月11日：暑さの逃げ道と週末の段取り、からだを責めない土曜</title>
+      <description>ホルムズ海峡の緊張、バージニアビーチの夏の地域行事、京都の水と包摂の話、大相撲初日、ドジャース、そしてデトックスに急がない週末の整え方をやさしくまとめます。</description>
+      <content:encoded><![CDATA[
+        <p>ホルムズ海峡の緊張、バージニアビーチの夏の地域行事、京都の水と包摂の話、大相撲初日、ドジャース、そしてデトックスに急がない週末の整え方をやさしくまとめます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-11</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-11</guid>
+      <pubDate>Sat, 11 Jul 2026 06:25:30 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-11/episode.mp3"
+        length="11375181"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:48</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年7月10日：見えない負担を軽くする、金曜の朝支度</title>
