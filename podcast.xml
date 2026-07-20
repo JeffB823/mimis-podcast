@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sat, 18 Jul 2026 09:53:42 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 06:31:35 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月20日：暑さの先回りと祭りの静けさ、詰め込みすぎない月曜</title>
+      <description>全米の続く暑さ、バージニアビーチの静かな判断、京都の御手洗祭と屏風祭、大相撲の三人並走、ドジャースのダブルヘッダー分け、そしてデトックスに急がないからだノートをやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>全米の続く暑さ、バージニアビーチの静かな判断、京都の御手洗祭と屏風祭、大相撲の三人並走、ドジャースのダブルヘッダー分け、そしてデトックスに急がないからだノートをやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-20</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-20</guid>
+      <pubDate>Mon, 20 Jul 2026 06:31:35 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-20/episode.mp3"
+        length="10794573"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>14:59</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年7月18日：祭りの次の朝と持ち直す一勝、無理を足さない土曜</title>
