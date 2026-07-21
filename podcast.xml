@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Mon, 20 Jul 2026 06:31:35 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 07:15:12 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月21日：煙の朝と町の段取り、急がせない火曜</title>
+      <description>関税と煙の全米ニュース、バージニアビーチの早期投票と朝の空気、京都の二十一日の動線、大相撲、ドジャース、そしてデトックスに急がないからだノートをやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>関税と煙の全米ニュース、バージニアビーチの早期投票と朝の空気、京都の二十一日の動線、大相撲、ドジャース、そしてデトックスに急がないからだノートをやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-21</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-21</guid>
+      <pubDate>Tue, 21 Jul 2026 07:15:12 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-21/episode.mp3"
+        length="12249261"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>17:01</itunes:duration>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年7月20日：暑さの先回りと祭りの静けさ、詰め込みすぎない月曜</title>
