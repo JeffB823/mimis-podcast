@@ -119,12 +119,14 @@ def directed_text_parts(text: str) -> list[str | float]:
     return parts
 
 
-def split_spoken_chunks(text: str, max_chars: int = 45) -> list[str]:
+def split_spoken_chunks(text: str, max_chars: int = 90) -> list[str]:
     """Break long Japanese narration into synthesis-friendly chunks.
 
     Kokoro's Japanese pipeline can become extremely slow on long paragraphs.
     We preserve explicit newlines first, then further split each line on major
     sentence punctuation while keeping short adjacent sentences together.
+    A slightly larger chunk target materially reduces end-to-end render time
+    for full-length dialogue episodes while staying well below paragraph size.
     """
 
     chunks: list[str] = []

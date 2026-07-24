@@ -23,7 +23,49 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Tue, 21 Jul 2026 07:15:12 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 10:26:24 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月24日：雨と締め切りの朝、急がせない金曜</title>
+      <description>新関税と災害支援訴訟、バージニアビーチの雨と投票締め切り、京都の後祭と暑さ、大相撲、ドジャース、そしてデトックスに急がないからだノートをやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>新関税と災害支援訴訟、バージニアビーチの雨と投票締め切り、京都の後祭と暑さ、大相撲、ドジャース、そしてデトックスに急がないからだノートをやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-24</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-24</guid>
+      <pubDate>Fri, 24 Jul 2026 10:26:24 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-24/episode.mp3"
+        length="11739501"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:18</itunes:duration>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
+
+    <item>
+      <title>2026年7月23日：雨の足もとと祭りの段取り、急がせない木曜</title>
+      <description>AI研究への大型投資、つなぎ予算、バージニアビーチの大雨警戒、京都の暑さと後祭の段取り、大相撲、ドジャース、そしてデトックスに急がないからだノートをやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>AI研究への大型投資、つなぎ予算、バージニアビーチの大雨警戒、京都の暑さと後祭の段取り、大相撲、ドジャース、そしてデトックスに急がないからだノートをやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-23</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 10:30:58 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-23/episode.mp3"
+        length="13155597"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>18:16</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年7月21日：煙の朝と町の段取り、急がせない火曜</title>
