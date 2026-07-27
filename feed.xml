@@ -23,7 +23,29 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Fri, 24 Jul 2026 10:26:24 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 07:20:00 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月27日：暑さの逃げ道と夏の段取り、週明けを急がせない朝</title>
+      <description>関税訴訟とテキサス洪水、バージニアビーチの雨と今夜の意見交換会、京都の熱中症警戒と送り火の安全呼びかけ、大相撲の優勝、ドジャース、そしてデトックスに寄りかからないからだノートをやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>関税訴訟とテキサス洪水、バージニアビーチの雨と今夜の意見交換会、京都の熱中症警戒と送り火の安全呼びかけ、大相撲の優勝、ドジャース、そしてデトックスに寄りかからないからだノートをやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-27</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-27</guid>
+      <pubDate>Mon, 27 Jul 2026 07:20:00 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-27/episode.mp3"
+        length="12018573"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:41</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
+
 
     <item>
       <title>2026年7月24日：雨と締め切りの朝、急がせない金曜</title>
