@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Mon, 27 Jul 2026 07:27:19 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:18:09 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月28日：暑さの逃げ道と知らせの精度、火曜の立て直し</title>
+      <description>郵便投票と関税の揺れ、バージニアビーチの雷雨とVBAlert、京都の熱中症警戒、相撲、ドジャース、そしてデトックスを急がないからだノートをやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>郵便投票と関税の揺れ、バージニアビーチの雷雨とVBAlert、京都の熱中症警戒、相撲、ドジャース、そしてデトックスを急がないからだノートをやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-28</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-28</guid>
+      <pubDate>Tue, 28 Jul 2026 06:18:09 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-28/episode.mp3"
+        length="11714157"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:16</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年7月27日：熱と足もとを見直す、月曜の立て直し</title>
