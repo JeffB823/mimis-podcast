@@ -23,7 +23,28 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Tue, 28 Jul 2026 06:18:09 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 06:29:00 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年7月29日：暑さと値段の波をほどく、水曜の整え直し</title>
+      <description>上院の制裁法案と消費者心理、バージニアビーチの落ち着いた空、京都の暑さと減塩プロジェクト、相撲、ドジャース、そしてデトックスを急がないからだノートをやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>上院の制裁法案と消費者心理、バージニアビーチの落ち着いた空、京都の暑さと減塩プロジェクト、相撲、ドジャース、そしてデトックスを急がないからだノートをやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-29</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 06:29:00 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-29/episode.mp3"
+        length="11874573"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:29</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年7月28日：暑さの逃げ道と知らせの精度、火曜の立て直し</title>
