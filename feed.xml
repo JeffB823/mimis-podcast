@@ -23,7 +23,30 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Wed, 29 Jul 2026 06:29:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 06:11:59 -0400</lastBuildDate>
+
+
+    <item>
+      <title>2026年7月30日：暑さと金利のあいだで、木曜の順番を戻す朝</title>
+      <description>FRBの据え置きと家計の重さ、晴れたバージニアビーチ、熱中症警戒の京都、相撲、ドジャース、そしてデトックスを急がないからだノートをやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>FRBの据え置きと家計の重さ、晴れたバージニアビーチ、熱中症警戒の京都、相撲、ドジャース、そしてデトックスを急がないからだノートをやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-30</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-30</guid>
+      <pubDate>Thu, 30 Jul 2026 06:11:59 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-30/episode.mp3"
+        length="11480013"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:57</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
+
 
     <item>
       <title>2026年7月29日：暑さと値段の波をほどく、水曜の整え直し</title>
