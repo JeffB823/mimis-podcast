@@ -23,7 +23,29 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Thu, 30 Jul 2026 06:11:59 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 06:12:52 -0400</lastBuildDate>
+
+
+    <item>
+      <title>2026年7月31日：数字の熱を下げて、週末の入り口を軽くする朝</title>
+      <description>GDP減速と高止まりの金利、晴れたバージニアビーチ、熱中症警戒の京都、相撲、ドジャース、そしてデトックスを急がないからだノートをやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>GDP減速と高止まりの金利、晴れたバージニアビーチ、熱中症警戒の京都、相撲、ドジャース、そしてデトックスを急がないからだノートをやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-07-31</link>
+      <guid isPermaLink="false">mimis-podcast-2026-07-31</guid>
+      <pubDate>Fri, 31 Jul 2026 06:12:52 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-07-31/episode.mp3"
+        length="12698829"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>17:38</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
