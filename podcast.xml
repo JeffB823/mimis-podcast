@@ -23,7 +23,30 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Fri, 31 Jul 2026 06:12:52 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 06:11:02 -0400</lastBuildDate>
+
+
+    <item>
+      <title>2026年8月1日：急がない土曜日、段取りをやさしく整える朝</title>
+      <description>景気の熱が少し落ち着いたアメリカ、きょうが動きどころのバージニアビーチ、暑さと夏の営みが重なる京都、相撲、ドジャース、そしてデトックスを急がないからだノートを静かに整えます。</description>
+      <content:encoded><![CDATA[
+        <p>景気の熱が少し落ち着いたアメリカ、きょうが動きどころのバージニアビーチ、暑さと夏の営みが重なる京都、相撲、ドジャース、そしてデトックスを急がないからだノートを静かに整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-01</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-01</guid>
+      <pubDate>Sat, 01 Aug 2026 06:11:02 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-01/episode.mp3"
+        length="12613869"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>17:31</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
+
 
 
     <item>
