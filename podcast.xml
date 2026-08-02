@@ -23,7 +23,31 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sat, 01 Aug 2026 06:11:02 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 06:13:17 -0400</lastBuildDate>
+
+
+
+    <item>
+      <title>2026年8月2日：日曜の朝、詰めこまず整える</title>
+      <description>静かな全国ニュース、雷雨を見込むバージニアビーチ、暑さと川辺の京都、相撲とドジャース、そしてデトックスに急がないからだノートで、日曜の朝をやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>静かな全国ニュース、雷雨を見込むバージニアビーチ、暑さと川辺の京都、相撲とドジャース、そしてデトックスに急がないからだノートで、日曜の朝をやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-02</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-02</guid>
+      <pubDate>Sun, 02 Aug 2026 06:13:17 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-02/episode.mp3"
+        length="13160205"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>18:16</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
+
 
 
     <item>
