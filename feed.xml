@@ -23,7 +23,30 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Tue, 04 Aug 2026 06:14:49 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 06:07:39 -0400</lastBuildDate>
+
+
+
+    <item>
+      <title>2026年8月5日：急がせない水曜、熱と足場を見直す朝</title>
+      <description>西部の山火事と関税訴訟、バージニアビーチの非公式選挙結果と洪水対策、京都の支援と文化予定、相撲、ドジャース、そしてデトックスに急がないからだノートで、水曜の朝を静かに整えます。</description>
+      <content:encoded><![CDATA[
+        <p>西部の山火事と関税訴訟、バージニアビーチの非公式選挙結果と洪水対策、京都の支援と文化予定、相撲、ドジャース、そしてデトックスに急がないからだノートで、水曜の朝を静かに整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-05</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-05</guid>
+      <pubDate>Wed, 05 Aug 2026 06:07:39 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-05/episode.mp3"
+        length="11937357"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:35</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
 
