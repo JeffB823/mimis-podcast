@@ -23,7 +23,29 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Thu, 06 Aug 2026 06:22:51 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:12:31 -0400</lastBuildDate>
+
+
+    <item>
+      <title>2026年8月7日：金曜の見極めを整える、混雑とからだの朝</title>
+      <description>山火事を広げる暑さの背景、ハラペーニョの集団感染注意、バージニアビーチの安全アンケート締め切り、京都の支援更新と混雑対策、相撲、ドジャース、そしてデトックスの前に確かめたいことを、金曜の朝にやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>山火事を広げる暑さの背景、ハラペーニョの集団感染注意、バージニアビーチの安全アンケート締め切り、京都の支援更新と混雑対策、相撲、ドジャース、そしてデトックスの前に確かめたいことを、金曜の朝にやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-07</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-07</guid>
+      <pubDate>Fri, 07 Aug 2026 06:12:31 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-07/episode.mp3"
+        length="13867821"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>19:15</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
 
