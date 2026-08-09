@@ -23,8 +23,30 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sat, 08 Aug 2026 06:25:15 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 06:09:00 -0400</lastBuildDate>
 
+
+
+    <item>
+      <title>2026年8月9日：日曜の深呼吸、制度と暑さの波を見分ける朝</title>
+      <description>上院のつなぎ予算、持ち越された投票制度論争、暑さに動くバージニアビーチ、京都の復旧支援、相撲、ドジャース、そしてデトックスに急がないからだノートで、日曜の朝を静かに整えます。</description>
+      <content:encoded><![CDATA[
+        <p>上院のつなぎ予算、持ち越された投票制度論争、暑さに動くバージニアビーチ、京都の復旧支援、相撲、ドジャース、そしてデトックスに急がないからだノートで、日曜の朝を静かに整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-09</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-09</guid>
+      <pubDate>Sun, 09 Aug 2026 06:09:00 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-09/episode.mp3"
+        length="12136653"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:51</itunes:duration>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年8月8日：土曜の段取りをやさしく戻す朝</title>
