@@ -23,10 +23,31 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Mon, 10 Aug 2026 06:44:57 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 06:11:10 -0400</lastBuildDate>
 
 
 
+
+    <item>
+      <title>2026年8月11日：火曜の順番を整える、熱と支えの朝</title>
+      <description>静かな議会の裏で動く公衆衛生と移民の論点、暑さに合わせて動くバージニアビーチ、復旧支援が具体化する京都、相撲、ドジャース、そしてデトックスに急がない更年期のからだノートで、火曜の朝をやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>静かな議会の裏で動く公衆衛生と移民の論点、暑さに合わせて動くバージニアビーチ、復旧支援が具体化する京都、相撲、ドジャース、そしてデトックスに急がない更年期のからだノートで、火曜の朝をやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-11</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-11</guid>
+      <pubDate>Tue, 11 Aug 2026 06:11:10 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-11/episode.mp3"
+        length="11829069"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:26</itunes:duration>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年8月10日：月曜の見通しを整える、熱と足場の朝</title>
