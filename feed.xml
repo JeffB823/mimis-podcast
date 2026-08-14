@@ -23,7 +23,30 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Wed, 12 Aug 2026 06:10:22 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 06:30:14 -0400</lastBuildDate>
+
+
+
+    <item>
+      <title>2026年8月14日：金曜の足場を整える、戻しすぎない朝</title>
+      <description>卸売物価と雇用の数字を落ち着いて見直す全米ニュース、午後の雷雨を見込むバージニアビーチ、認知症啓発と観光の段取りが動く京都、相撲、ドジャース、そしてクレンズに急がない更年期のからだノートで、金曜の朝をやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>卸売物価と雇用の数字を落ち着いて見直す全米ニュース、午後の雷雨を見込むバージニアビーチ、認知症啓発と観光の段取りが動く京都、相撲、ドジャース、そしてクレンズに急がない更年期のからだノートで、金曜の朝をやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-14</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-14</guid>
+      <pubDate>Fri, 14 Aug 2026 06:30:14 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-14/episode.mp3"
+        length="12957741"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>18:00</itunes:duration>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
 
