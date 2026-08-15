@@ -23,7 +23,30 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Fri, 14 Aug 2026 06:30:14 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 06:09:00 -0400</lastBuildDate>
+
+
+    <item>
+      <title>2026年8月15日：土曜の足もとを静かに整える、送り火前の朝</title>
+      <description>小売売上高の弱さが映る全米ニュース、暑い土曜のバージニアビーチ、送り火前の京都、相撲、ドジャース、そしてクレンズに急がない50代からのからだノートで、週末の朝をやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>小売売上高の弱さが映る全米ニュース、暑い土曜のバージニアビーチ、送り火前の京都、相撲、ドジャース、そしてクレンズに急がない50代からのからだノートで、週末の朝をやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-15</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-15</guid>
+      <pubDate>Sat, 15 Aug 2026 06:09:00 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-15/episode.mp3"
+        length="13106349"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>18:12</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
+
 
 
 
