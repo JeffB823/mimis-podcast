@@ -23,8 +23,29 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sat, 15 Aug 2026 06:09:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 06:03:41 -0400</lastBuildDate>
 
+
+    <item>
+      <title>2026年8月16日：日曜の余白を守る、送り火と天気の朝</title>
+      <description>ハワイのハリケーン被害、夜に崩れやすいバージニアビーチ、送り火当日の京都、相撲、ドジャース、そしてクレンズに急がない50代からのからだノートで、日曜の朝をやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>ハワイのハリケーン被害、夜に崩れやすいバージニアビーチ、送り火当日の京都、相撲、ドジャース、そしてクレンズに急がない50代からのからだノートで、日曜の朝をやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-16</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-16</guid>
+      <pubDate>Sun, 16 Aug 2026 06:03:41 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-16/episode.mp3"
+        length="12489741"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>17:20</itunes:duration>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年8月15日：土曜の足もとを静かに整える、送り火前の朝</title>
