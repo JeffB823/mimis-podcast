@@ -23,7 +23,29 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Mon, 17 Aug 2026 06:11:53 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 06:10:55 -0400</lastBuildDate>
+
+
+    <item>
+      <title>2026年8月18日：火曜の足どりを軽くする、街と夏の朝</title>
+      <description>CDCの新学年データとFDAのハラペーニョ注意、少し動きやすいバージニアビーチ、次の季節を仕込む京都、相撲、ドジャース、そして抜くより記録する50代からのからだノートで、火曜の朝をやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>CDCの新学年データとFDAのハラペーニョ注意、少し動きやすいバージニアビーチ、次の季節を仕込む京都、相撲、ドジャース、そして抜くより記録する50代からのからだノートで、火曜の朝をやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-18</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-18</guid>
+      <pubDate>Tue, 18 Aug 2026 06:10:55 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-18/episode.mp3"
+        length="13576365"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>18:51</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
