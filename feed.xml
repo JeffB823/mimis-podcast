@@ -23,7 +23,29 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Thu, 20 Aug 2026 06:05:41 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:13:07 -0400</lastBuildDate>
+
+
+    <item>
+      <title>2026年8月21日：金曜の温度を見ながら、整え直す朝</title>
+      <description>雇用の数字と食卓の注意、バージニアビーチの蚊と町の表彰、京都の心と回収の仕組み、相撲とドジャース、そしてクレンズ前に見直したい50代からのからだノートで、金曜の朝をやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>雇用の数字と食卓の注意、バージニアビーチの蚊と町の表彰、京都の心と回収の仕組み、相撲とドジャース、そしてクレンズ前に見直したい50代からのからだノートで、金曜の朝をやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-21</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-21</guid>
+      <pubDate>Fri, 21 Aug 2026 06:13:07 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-21/episode.mp3"
+        length="12107565"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:49</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
