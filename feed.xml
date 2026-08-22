@@ -23,7 +23,29 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Fri, 21 Aug 2026 06:13:07 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:05:35 -0400</lastBuildDate>
+
+
+    <item>
+      <title>2026年8月22日：急がない土曜、見分けて整える朝</title>
+      <description>CDCのはしか更新とFDAのハラペーニョ注意、月曜前のバージニアビーチ、京都の暮らしの整備、相撲とドジャース、そして更年期とデトックスを見分けるからだノートで、土曜の朝をやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>CDCのはしか更新とFDAのハラペーニョ注意、月曜前のバージニアビーチ、京都の暮らしの整備、相撲とドジャース、そして更年期とデトックスを見分けるからだノートで、土曜の朝をやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-22</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-22</guid>
+      <pubDate>Sat, 22 Aug 2026 06:05:35 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-22/episode.mp3"
+        length="9218637"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>12:48</itunes:duration>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
