@@ -23,7 +23,29 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Mon, 24 Aug 2026 06:21:36 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:04:14 -0400</lastBuildDate>
+
+    <item>
+      <title>2026年8月25日：火曜の順番を静かに整える朝</title>
+      <description>スプラウトの食中毒注意、バージニアビーチの朝の実務、京都の食の衛生と小さな再開、相撲とドジャース、そしてデトックスに急がない50代からのからだノートで、火曜の朝をやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>スプラウトの食中毒注意、バージニアビーチの朝の実務、京都の食の衛生と小さな再開、相撲とドジャース、そしてデトックスに急がない50代からのからだノートで、火曜の朝をやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-25</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 06:04:14 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-25/episode.mp3"
+        length="11903661"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:31</itunes:duration>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
+
 
     <item>
       <title>2026年8月24日：月曜の混線をほどく、整え直しの朝</title>
