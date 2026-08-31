@@ -23,7 +23,30 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sun, 30 Aug 2026 06:14:43 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 06:30:03 -0400</lastBuildDate>
+
+
+    <item>
+      <title>2026年8月31日：月曜の切り替えを急がせない、見通しの朝</title>
+      <description>全米のはしかと食品リコール、バージニアビーチの海辺動線、京都の夏の締めくくり、九月場所番付とドジャース、そしてクレンズより先に書くからだノートで、月曜の朝をやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>全米のはしかと食品リコール、バージニアビーチの海辺動線、京都の夏の締めくくり、九月場所番付とドジャース、そしてクレンズより先に書くからだノートで、月曜の朝をやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-08-31</link>
+      <guid isPermaLink="false">mimis-podcast-2026-08-31</guid>
+      <pubDate>Mon, 31 Aug 2026 06:30:03 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-08-31/episode.mp3"
+        length="12565773"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>17:27</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
+
 
 
 
