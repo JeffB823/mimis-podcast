@@ -23,7 +23,29 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 06:13:47 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:08:01 -0400</lastBuildDate>
+
+
+    <item>
+      <title>2026年9月2日：ほどきながら整える、水曜の朝</title>
+      <description>全米の静かな健康確認、バージニアビーチの足もとと連休前の段取り、京都の秋支度、相撲とドジャース、そしてクレンズを急がないからだノートで、水曜の朝をやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>全米の静かな健康確認、バージニアビーチの足もとと連休前の段取り、京都の秋支度、相撲とドジャース、そしてクレンズを急がないからだノートで、水曜の朝をやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-02</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-02</guid>
+      <pubDate>Wed, 02 Sep 2026 06:08:01 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-09-02/episode.mp3"
+        length="11603853"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:06</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
