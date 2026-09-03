@@ -23,7 +23,29 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Wed, 02 Sep 2026 06:08:01 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:09:55 -0400</lastBuildDate>
+
+
+    <item>
+      <title>2026年9月3日：暑さと季節のずれを見分ける、木曜の朝</title>
+      <description>連邦予算のつなぎ、バージニアビーチの暑さと蚊、京都の流行期入り、相撲とドジャース、そしてデトックスに急がないからだノートで、木曜の朝をやさしく整えます。</description>
+      <content:encoded><![CDATA[
+        <p>連邦予算のつなぎ、バージニアビーチの暑さと蚊、京都の流行期入り、相撲とドジャース、そしてデトックスに急がないからだノートで、木曜の朝をやさしく整えます。</p>
+      ]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-03</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 06:09:55 -0400</pubDate>
+      <enclosure
+        url="https://jeffb823.github.io/mimis-podcast/output/2026-09-03/episode.mp3"
+        length="11971341"
+        type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:38</itunes:duration>
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
