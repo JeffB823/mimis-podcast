@@ -23,8 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 06:09:55 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:54:53 -0400</lastBuildDate>
 
+
+    <item>
+      <title>約束と確かなことを分ける、火曜の朝</title>
+      <description>選挙運動の次の段階、バージニアビーチの天気と市議会、京都の芸術家の拠点、相撲とドジャース。更年期の相談と小さなお願い、日本語学習書の刊行予定をお届けします。</description>
+      <content:encoded><![CDATA[<p>選挙運動の次の段階、バージニアビーチの天気と市議会、京都の芸術家の拠点、相撲とドジャース。更年期の相談と小さなお願い、日本語学習書の刊行予定をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-08</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 15:54:53 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-08/episode.mp3" length="10831149" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:03</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>2026年9月3日：暑さと季節のずれを見分ける、木曜の朝</title>
