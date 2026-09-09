@@ -1,0 +1,18 @@
+{
+  "title": "条件を少しやさしくする、水曜の朝",
+  "date": "2026-09-09",
+  "language": "ja",
+  "explicit": false,
+  "summary": "原油高と暮らし、バージニアビーチの救急支援、京都の銭湯文化、高安の近況とドジャースの勝利。からだノートは眠る部屋の工夫、学習書は旅の日本語です。",
+  "duration_seconds": 983.655,
+  "duration": "16:24",
+  "byte_length": 11804877,
+  "voices": {
+    "ミミ": "jf_nezumi",
+    "健司": "am_michael"
+  },
+  "speed": 0.94,
+  "editorial_cutoff": "2026-09-09T08:01:00-04:00",
+  "pubDate": "Wed, 09 Sep 2026 11:33:09 -0400",
+  "audio_url": "https://jeffb823.github.io/mimis-podcast/output/2026-09-09/episode.mp3"
+}

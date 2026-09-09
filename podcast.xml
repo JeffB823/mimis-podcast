@@ -23,8 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Tue, 08 Sep 2026 15:54:53 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:33:09 -0400</lastBuildDate>
 
+
+    <item>
+      <title>条件を少しやさしくする、水曜の朝</title>
+      <description>原油高と暮らし、バージニアビーチの救急支援、京都の銭湯文化、高安の近況とドジャースの勝利。からだノートは眠る部屋の工夫、学習書は旅の日本語です。</description>
+      <content:encoded><![CDATA[<p>原油高と暮らし、バージニアビーチの救急支援、京都の銭湯文化、高安の近況とドジャースの勝利。からだノートは眠る部屋の工夫、学習書は旅の日本語です。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-09</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-09</guid>
+      <pubDate>Wed, 09 Sep 2026 11:33:09 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-09/episode.mp3" length="11804877" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:24</itunes:duration>
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>約束と確かなことを分ける、火曜の朝</title>
