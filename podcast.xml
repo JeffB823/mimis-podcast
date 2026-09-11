@@ -23,8 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 11:33:09 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:14:06 -0400</lastBuildDate>
 
+
+    <item>
+      <title>小さな一歩を選ぶ、金曜の朝</title>
+      <description>米国の8月物価統計、バージニアビーチの週末予報、京都の伝統工芸展、秋場所の初日取組とドジャースの予定。からだノートは骨を守る動き、学習書はアニメ・マンガからの探究です。</description>
+      <content:encoded><![CDATA[<p>米国の8月物価統計、バージニアビーチの週末予報、京都の伝統工芸展、秋場所の初日取組とドジャースの予定。からだノートは骨を守る動き、学習書はアニメ・マンガからの探究です。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-11</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 09:14:06 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-11/episode.mp3" length="11284749" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:41</itunes:duration>
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>条件を少しやさしくする、水曜の朝</title>
