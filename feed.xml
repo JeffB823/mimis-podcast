@@ -23,8 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Fri, 11 Sep 2026 09:14:06 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:10:10 -0400</lastBuildDate>
 
+
+    <item>
+      <title>頼る言葉を用意する、土曜の朝</title>
+      <description>9・11から25年の追悼、バージニアビーチの相談電話、京都の京まふ案内、秋場所の土俵祭とドジャースの勝利。からだノートは尿の悩みの相談準備、日本語の語彙を学び直す新刊も紹介します。</description>
+      <content:encoded><![CDATA[<p>9・11から25年の追悼、バージニアビーチの相談電話、京都の京まふ案内、秋場所の土俵祭とドジャースの勝利。からだノートは尿の悩みの相談準備、日本語の語彙を学び直す新刊も紹介します。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-12</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 08:10:10 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-12/episode.mp3" length="10661805" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>14:49</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>小さな一歩を選ぶ、金曜の朝</title>
