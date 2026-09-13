@@ -23,8 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sat, 12 Sep 2026 08:10:10 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 19:32:32 -0400</lastBuildDate>
 
+
+    <item>
+      <title>確かめる時間を持つ、日曜の朝</title>
+      <description>米国のAIをめぐる発言、バージニアビーチの地域の催し、京都の秋の森の案内。秋場所初日の結果とドジャースの最新試合、更年期サプリの根拠の見方、日本語漢字教材の改訂版をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国のAIをめぐる発言、バージニアビーチの地域の催し、京都の秋の森の案内。秋場所初日の結果とドジャースの最新試合、更年期サプリの根拠の見方、日本語漢字教材の改訂版をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-13</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 19:32:32 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-13/episode.mp3" length="12176973" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:55</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>頼る言葉を用意する、土曜の朝</title>
