@@ -23,8 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sun, 13 Sep 2026 19:32:32 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 08:11:02 -0400</lastBuildDate>
 
+
+    <item>
+      <title>今の自分に合う言葉を、月曜の朝</title>
+      <description>関税撤廃の意向と実施の違い、バージニアビーチの節水案内、京都の和文化プロジェクト。秋場所二日目とドジャースの今夜の予定、更年期の乾燥や親密さの変化、大人の日本語を学ぶ新刊をお届けします。</description>
+      <content:encoded><![CDATA[<p>関税撤廃の意向と実施の違い、バージニアビーチの節水案内、京都の和文化プロジェクト。秋場所二日目とドジャースの今夜の予定、更年期の乾燥や親密さの変化、大人の日本語を学ぶ新刊をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-14</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 08:11:02 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-14/episode.mp3" length="11291085" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:41</itunes:duration>
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>確かめる時間を持つ、日曜の朝</title>
