@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Tue, 15 Sep 2026 08:16:08 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:15:47 -0400</lastBuildDate>
+
+
+    <item>
+      <title>ひとつずつ、輪郭を戻す水曜の朝</title>
+      <description>米下院の戦争権限決議とバージニアビーチの地域会合、京都の防災と学び。秋場所四日目、ドジャースの完封勝利、中年期の健康研究と症状メモ、日本語を旅で学ぶ新刊をお届けします。</description>
+      <content:encoded><![CDATA[<p>米下院の戦争権限決議とバージニアビーチの地域会合、京都の防災と学び。秋場所四日目、ドジャースの完封勝利、中年期の健康研究と症状メモ、日本語を旅で学ぶ新刊をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-16</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-16</guid>
+      <pubDate>Wed, 16 Sep 2026 08:15:47 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-16/episode.mp3" length="12044781" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:44</itunes:duration>
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
