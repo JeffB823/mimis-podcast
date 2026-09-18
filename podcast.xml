@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 08:09:25 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:18:38 -0400</lastBuildDate>
+
+
+    <item>
+      <title>一つを選び、あとは明日へ</title>
+      <description>郵便投票をめぐるシステム停止、バージニアビーチの洪水対策、京都の周遊観光。秋場所とドジャース地区優勝、更年期の相談メモ、日本語N5語彙教材をお届けします。</description>
+      <content:encoded><![CDATA[<p>郵便投票をめぐるシステム停止、バージニアビーチの洪水対策、京都の周遊観光。秋場所とドジャース地区優勝、更年期の相談メモ、日本語N5語彙教材をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-18</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 06:18:38 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-18/episode.mp3" length="11358765" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:46</itunes:duration>
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
