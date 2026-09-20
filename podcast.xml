@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sat, 19 Sep 2026 06:25:01 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 06:22:14 -0400</lastBuildDate>
+
+
+    <item>
+      <title>心配に、言葉の席をつくる</title>
+      <description>報道アクセス制限の実施、バージニアビーチの航空ショー、京都の京まふ最終日。秋場所とドジャース、受診の質問メモ、旅で学ぶ日本語の新刊をお届けします。</description>
+      <content:encoded><![CDATA[<p>報道アクセス制限の実施、バージニアビーチの航空ショー、京都の京まふ最終日。秋場所とドジャース、受診の質問メモ、旅で学ぶ日本語の新刊をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-20</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 06:22:14 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-20/episode.mp3" length="11234637" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:36</itunes:duration>
+      <itunes:episode>75</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
