@@ -23,8 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sun, 20 Sep 2026 06:22:14 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 06:29:46 -0400</lastBuildDate>
 
+
+    <item>
+      <title>ひとつ確かめて、月曜を始める</title>
+      <description>ガソリン高と暮らし、バージニアビーチの湿地審問、京都・洛西の竹あかり。秋場所とドジャース、からだの相談先、漢字を学ぶ新刊をお届けします。</description>
+      <content:encoded><![CDATA[<p>ガソリン高と暮らし、バージニアビーチの湿地審問、京都・洛西の竹あかり。秋場所とドジャース、からだの相談先、漢字を学ぶ新刊をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-21</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 06:29:46 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-21/episode.mp3" length="9490797" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>13:11</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
     <item>
       <title>心配に、言葉の席をつくる</title>
