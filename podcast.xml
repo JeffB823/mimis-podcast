@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Fri, 25 Sep 2026 06:08:36 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 06:30:16 -0400</lastBuildDate>
+
+
+    <item>
+      <title>一度立って、週末を始める</title>
+      <description>米国の精神保健助成、バージニアビーチの週末交通、京都の個人情報保護。大の里の優勝とドジャース、椅子からの一回、日本語を旅で学ぶ新刊をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の精神保健助成、バージニアビーチの週末交通、京都の個人情報保護。大の里の優勝とドジャース、椅子からの一回、日本語を旅で学ぶ新刊をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-26</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-26</guid>
+      <pubDate>Sat, 26 Sep 2026 06:30:16 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-26/episode.mp3" length="11475981" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:56</itunes:duration>
+      <itunes:episode>81</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
