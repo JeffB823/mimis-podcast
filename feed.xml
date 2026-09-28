@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sun, 27 Sep 2026 06:26:53 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:28:32 -0400</lastBuildDate>
+
+
+    <item>
+      <title>小さく始めて、月曜を整える</title>
+      <description>原油高と暮らし、バージニアビーチの公開会合、京都の櫛祭。大相撲千秋楽の余韻とドジャース100勝、骨を守る小さな動き、旅の日本語学習書をお届けします。</description>
+      <content:encoded><![CDATA[<p>原油高と暮らし、バージニアビーチの公開会合、京都の櫛祭。大相撲千秋楽の余韻とドジャース100勝、骨を守る小さな動き、旅の日本語学習書をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-28</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 06:28:32 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-28/episode.mp3" length="10133613" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>14:04</itunes:duration>
+      <itunes:episode>83</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
