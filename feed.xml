@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Mon, 28 Sep 2026 06:28:32 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:08:37 -0400</lastBuildDate>
+
+
+    <item>
+      <title>一行置いて、自分を守る朝</title>
+      <description>米国の新しい燃費基準、バージニアビーチの会合中止、京都の環境と文化。大の里とドジャース、更年期の一行メモ、N1聴解の新刊をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の新しい燃費基準、バージニアビーチの会合中止、京都の環境と文化。大の里とドジャース、更年期の一行メモ、N1聴解の新刊をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-29</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 06:08:37 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-29/episode.mp3" length="11283021" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:40</itunes:duration>
+      <itunes:episode>84</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
