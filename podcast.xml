@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 06:08:37 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:30:02 -0400</lastBuildDate>
+
+
+    <item>
+      <title>確かな一つを、次の月へ</title>
+      <description>米最高裁の移民送還判断、バージニアビーチの公開会合、京都の資源循環。ドジャースにつながるワイルドカード、更年期の健康確認、日本語文型の新刊をお届けします。</description>
+      <content:encoded><![CDATA[<p>米最高裁の移民送還判断、バージニアビーチの公開会合、京都の資源循環。ドジャースにつながるワイルドカード、更年期の健康確認、日本語文型の新刊をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-09-30</link>
+      <guid isPermaLink="false">mimis-podcast-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 06:30:02 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-09-30/episode.mp3" length="11040813" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:20</itunes:duration>
+      <itunes:episode>85</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
