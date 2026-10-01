@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Wed, 30 Sep 2026 06:30:02 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:13:28 -0400</lastBuildDate>
+
+
+    <item>
+      <title>十月は、やさしい条件を一つ</title>
+      <description>米国のデータセンター電力費用、バージニアビーチの洪水対策、京都の特殊詐欺防止。相撲とドジャース、更年期の眠り、日本語学習書をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国のデータセンター電力費用、バージニアビーチの洪水対策、京都の特殊詐欺防止。相撲とドジャース、更年期の眠り、日本語学習書をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-01</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 06:13:28 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-01/episode.mp3" length="11372589" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:48</itunes:duration>
+      <itunes:episode>86</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
