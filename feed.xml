@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 06:13:28 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 06:31:53 -0400</lastBuildDate>
+
+
+    <item>
+      <title>答えを急がず、一つ集める朝</title>
+      <description>米軍の中東配備、バージニアビーチの洪水対策、京都のツーリストシップ。相撲とドジャース、更年期治療の相談メモ、仕事の日本語新刊をお届けします。</description>
+      <content:encoded><![CDATA[<p>米軍の中東配備、バージニアビーチの洪水対策、京都のツーリストシップ。相撲とドジャース、更年期治療の相談メモ、仕事の日本語新刊をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-02</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 06:31:53 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-02/episode.mp3" length="11362797" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:47</itunes:duration>
+      <itunes:episode>87</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
