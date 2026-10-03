@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 06:31:53 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 06:19:34 -0400</lastBuildDate>
+
+
+    <item>
+      <title>分からないまま、一行を置く朝</title>
+      <description>G7の燃料放出、バージニア水族館の復旧、京都の市バス増便。相撲とドジャース、更年期の一行記録、世界を学ぶ日本語教材をお届けします。</description>
+      <content:encoded><![CDATA[<p>G7の燃料放出、バージニア水族館の復旧、京都の市バス増便。相撲とドジャース、更年期の一行記録、世界を学ぶ日本語教材をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-03</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-03</guid>
+      <pubDate>Sat, 03 Oct 2026 06:19:34 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-03/episode.mp3" length="11632365" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:09</itunes:duration>
+      <itunes:episode>88</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
