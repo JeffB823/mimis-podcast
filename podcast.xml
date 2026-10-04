@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sat, 03 Oct 2026 06:19:34 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:28:36 -0400</lastBuildDate>
+
+
+    <item>
+      <title>小さな印を、今日の味方に</title>
+      <description>米国の中間選挙世論調査、バージニアビーチの歩道改善、京都のバス迂回。相撲とドジャース、更年期の出血記録、中級日本語の新刊をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の中間選挙世論調査、バージニアビーチの歩道改善、京都のバス迂回。相撲とドジャース、更年期の出血記録、中級日本語の新刊をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-04</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-04</guid>
+      <pubDate>Sun, 04 Oct 2026 06:28:36 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-04/episode.mp3" length="11313837" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:43</itunes:duration>
+      <itunes:episode>89</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
