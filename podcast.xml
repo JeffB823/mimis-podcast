@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sun, 04 Oct 2026 06:28:36 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 06:27:27 -0400</lastBuildDate>
+
+
+    <item>
+      <title>我慢しない一行から始める朝</title>
+      <description>米最高裁の新開廷期、バージニアビーチの採用フェア、京都の休園日。相撲とドジャース、更年期の尿トラブル、日本語文型の新刊をお届けします。</description>
+      <content:encoded><![CDATA[<p>米最高裁の新開廷期、バージニアビーチの採用フェア、京都の休園日。相撲とドジャース、更年期の尿トラブル、日本語文型の新刊をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-05</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 06:27:27 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-05/episode.mp3" length="11265741" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:39</itunes:duration>
+      <itunes:episode>90</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
