@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 06:27:27 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:16:21 -0400</lastBuildDate>
+
+
+    <item>
+      <title>自分を測らず、今を知る朝</title>
+      <description>米最高裁の気候訴訟弁論、バージニアビーチの発砲事件減少、京都の夜間通行止め。秋巡業とドジャース、更年期からの筋力、日本語教材の選び方をお届けします。</description>
+      <content:encoded><![CDATA[<p>米最高裁の気候訴訟弁論、バージニアビーチの発砲事件減少、京都の夜間通行止め。秋巡業とドジャース、更年期からの筋力、日本語教材の選び方をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-06</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 06:16:21 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-06/episode.mp3" length="11525805" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:00</itunes:duration>
+      <itunes:episode>91</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
