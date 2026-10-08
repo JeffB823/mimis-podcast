@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 06:13:10 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:12:26 -0400</lastBuildDate>
+
+
+    <item>
+      <title>数字を責めず、味方にする朝</title>
+      <description>米国の子ども向け投資口座、バージニアビーチの年齢別支援、京都の伝統工芸展。秋巡業とドジャース、閉経期の血圧、日本語聴解教材をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の子ども向け投資口座、バージニアビーチの年齢別支援、京都の伝統工芸展。秋巡業とドジャース、閉経期の血圧、日本語聴解教材をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-08</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 06:12:26 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-08/episode.mp3" length="11194029" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:33</itunes:duration>
+      <itunes:episode>93</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
