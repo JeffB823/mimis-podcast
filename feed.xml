@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 06:12:26 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:14:47 -0400</lastBuildDate>
+
+
+    <item>
+      <title>確かな次の一歩を選ぶ朝</title>
+      <description>米国とイランの交渉、バージニアビーチの週末交通、京都・京北の予約型交通。秋巡業とドジャース、更年期の相談メモ、日本語教員向け聴解新刊をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国とイランの交渉、バージニアビーチの週末交通、京都・京北の予約型交通。秋巡業とドジャース、更年期の相談メモ、日本語教員向け聴解新刊をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-09</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 06:14:47 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-09/episode.mp3" length="11381517" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:48</itunes:duration>
+      <itunes:episode>94</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
