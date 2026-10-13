@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 06:33:17 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 06:15:07 -0400</lastBuildDate>
+
+
+    <item>
+      <title>答えより、次の一問を持つ朝</title>
+      <description>米国の国境増派、バージニアビーチの空と交通、京都の減塩企画。秋巡業とドジャース、更年期の三行メモ、日本語聴解教材をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の国境増派、バージニアビーチの空と交通、京都の減塩企画。秋巡業とドジャース、更年期の三行メモ、日本語聴解教材をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-13</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 06:15:07 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-13/episode.mp3" length="11496717" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:58</itunes:duration>
+      <itunes:episode>98</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
