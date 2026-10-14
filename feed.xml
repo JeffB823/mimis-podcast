@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Tue, 13 Oct 2026 06:15:07 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:20:40 -0400</lastBuildDate>
+
+
+    <item>
+      <title>大きな言葉を、小さな確認に戻す朝</title>
+      <description>米国の報道アクセス判断、バージニアビーチの暑さと地域予定、京都の防災情報サービス。秋巡業とドジャース、更年期研究の読み方、日本語教材の選び方をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の報道アクセス判断、バージニアビーチの暑さと地域予定、京都の防災情報サービス。秋巡業とドジャース、更年期研究の読み方、日本語教材の選び方をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-14</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 06:20:40 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-14/episode.mp3" length="11686509" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:14</itunes:duration>
+      <itunes:episode>99</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
