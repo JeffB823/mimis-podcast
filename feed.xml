@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Wed, 14 Oct 2026 06:20:40 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:14:21 -0400</lastBuildDate>
+
+
+    <item>
+      <title>大きな数字を、今日の一つへ</title>
+      <description>米国の社会保障給付増額、バージニアビーチの浸水準備、京都のインフルエンザ注意報。秋巡業とドジャース、更年期と運動、新しいN5語彙教材をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の社会保障給付増額、バージニアビーチの浸水準備、京都のインフルエンザ注意報。秋巡業とドジャース、更年期と運動、新しいN5語彙教材をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-15</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 06:14:21 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-15/episode.mp3" length="11507661" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:59</itunes:duration>
+      <itunes:episode>100</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
