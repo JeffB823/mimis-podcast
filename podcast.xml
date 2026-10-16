@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 06:14:21 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 06:20:13 -0400</lastBuildDate>
+
+
+    <item>
+      <title>分からない朝に、確かな一行を</title>
+      <description>米国の不審郵便捜査、バージニアビーチの週末交通、京都の音声ハザードマップ。秋巡業とドジャース、更年期のほてり、日本語聴解新刊をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の不審郵便捜査、バージニアビーチの週末交通、京都の音声ハザードマップ。秋巡業とドジャース、更年期のほてり、日本語聴解新刊をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-16</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 06:20:13 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-16/episode.mp3" length="11620269" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:08</itunes:duration>
+      <itunes:episode>101</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
