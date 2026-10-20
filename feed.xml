@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 06:11:02 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:11:28 -0400</lastBuildDate>
+
+
+    <item>
+      <title>大きな仕組みを、自分の一問へ</title>
+      <description>米国の女性健康研究、バージニアビーチ市議会、京都・四条駅のバリアフリー工事。秋巡業とドジャース、ホルモン療法の質問、日本語教育研究誌をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の女性健康研究、バージニアビーチ市議会、京都・四条駅のバリアフリー工事。秋巡業とドジャース、ホルモン療法の質問、日本語教育研究誌をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-20</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 06:11:28 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-20/episode.mp3" length="11335437" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:45</itunes:duration>
+      <itunes:episode>105</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
