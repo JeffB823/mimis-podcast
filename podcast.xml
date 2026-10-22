@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 06:20:03 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:16:34 -0400</lastBuildDate>
+
+
+    <item>
+      <title>乱れを責めず、一行から整える朝</title>
+      <description>米国の物価と雇用、バージニアビーチの地域会合、京都の文化計画と町家保存。和気町巡業、ドジャース、更年期の眠り、『オービタル』をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の物価と雇用、バージニアビーチの地域会合、京都の文化計画と町家保存。和気町巡業、ドジャース、更年期の眠り、『オービタル』をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-22</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 06:16:34 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-22/episode.mp3" length="11776653" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:21</itunes:duration>
+      <itunes:episode>107</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
