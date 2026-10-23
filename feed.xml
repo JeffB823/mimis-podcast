@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 06:16:34 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:02:52 -0400</lastBuildDate>
+
+
+    <item>
+      <title>明日のために、一回を選ぶ朝</title>
+      <description>米国の期日前投票、バージニアビーチの週末交通、京都の平安宮内裏跡。笠岡巡業、ドジャース、五十代の筋力、『ハザードランプ』の評論をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の期日前投票、バージニアビーチの週末交通、京都の平安宮内裏跡。笠岡巡業、ドジャース、五十代の筋力、『ハザードランプ』の評論をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-23</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 06:02:52 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-23/episode.mp3" length="11831373" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:26</itunes:duration>
+      <itunes:episode>108</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
