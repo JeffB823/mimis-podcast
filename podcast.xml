@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 06:02:52 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 06:24:34 -0400</lastBuildDate>
+
+
+    <item>
+      <title>自分の声を、脇へ置かない朝</title>
+      <description>米国の経済指標、バージニアビーチの期日前投票、京都の時代祭と防災訓練。広島巡業、ドジャース、更年期の三行記録、『春までのセンセイ』をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の経済指標、バージニアビーチの期日前投票、京都の時代祭と防災訓練。広島巡業、ドジャース、更年期の三行記録、『春までのセンセイ』をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-24</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 06:24:34 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-24/episode.mp3" length="11448045" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:54</itunes:duration>
+      <itunes:episode>109</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
