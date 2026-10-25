@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sat, 24 Oct 2026 06:24:34 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:10:53 -0400</lastBuildDate>
+
+
+    <item>
+      <title>見出しを、一つの問いに戻す朝</title>
+      <description>米国南西部の記録的洪水、バージニアビーチの日曜投票、京都・梅小路の文化祭。宇部巡業、ドジャース、更年期研究の読み方、『ファイア・ドーム』をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国南西部の記録的洪水、バージニアビーチの日曜投票、京都・梅小路の文化祭。宇部巡業、ドジャース、更年期研究の読み方、『ファイア・ドーム』をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-25</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 06:10:53 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-25/episode.mp3" length="11428749" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:52</itunes:duration>
+      <itunes:episode>110</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
