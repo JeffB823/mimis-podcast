@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sun, 25 Oct 2026 06:10:53 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:11:18 -0400</lastBuildDate>
+
+
+    <item>
+      <title>戻れる印を、一つ残す朝</title>
+      <description>米国の歴史的客船と人工魚礁、バージニアビーチの平日投票、京都のいけばな展。十一月場所番付、ドジャース、更年期の三欄記録、『埼玉マンション物語』をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の歴史的客船と人工魚礁、バージニアビーチの平日投票、京都のいけばな展。十一月場所番付、ドジャース、更年期の三欄記録、『埼玉マンション物語』をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-26</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 06:11:18 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-26/episode.mp3" length="11693421" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:14</itunes:duration>
+      <itunes:episode>111</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
