@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 06:11:18 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:06:16 -0400</lastBuildDate>
+
+
+    <item>
+      <title>決まる前に、見分ける朝</title>
+      <description>米国の金融政策会合、バージニアビーチ市議会、京都の電池火災対策。十一月場所の新三役、ドジャース、更年期の眠り、『その犬をください』をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の金融政策会合、バージニアビーチ市議会、京都の電池火災対策。十一月場所の新三役、ドジャース、更年期の眠り、『その犬をください』をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-27</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 06:06:16 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-27/episode.mp3" length="11590029" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:06</itunes:duration>
+      <itunes:episode>112</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
