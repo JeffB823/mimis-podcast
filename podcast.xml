@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 06:12:51 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:10:18 -0400</lastBuildDate>
+
+
+    <item>
+      <title>言いづらさを、一行にする朝</title>
+      <description>米国の金利据え置き、バージニアビーチの週末交通規制、京都の駅ナカアート。十一月場所、ドジャース、閉経期の膀胱・性器症状、日本語の聴解教材をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の金利据え置き、バージニアビーチの週末交通規制、京都の駅ナカアート。十一月場所、ドジャース、閉経期の膀胱・性器症状、日本語の聴解教材をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-10-29</link>
+      <guid isPermaLink="false">mimis-podcast-2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 06:10:18 -0400</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-10-29/episode.mp3" length="11822157" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:25</itunes:duration>
+      <itunes:episode>114</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
