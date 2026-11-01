@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sat, 31 Oct 2026 06:19:02 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:09:19 -0500</lastBuildDate>
+
+
+    <item>
+      <title>支える自分にも、席を空ける朝</title>
+      <description>米国の医療費、バージニアビーチの投票準備、京都のケアラー月間。十一月場所、ドジャース、更年期と運動、世界の課題を考える日本語教材をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の医療費、バージニアビーチの投票準備、京都のケアラー月間。十一月場所、ドジャース、更年期と運動、世界の課題を考える日本語教材をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-01</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 06:09:19 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-01/episode.mp3" length="11553453" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:03</itunes:duration>
+      <itunes:episode>117</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
