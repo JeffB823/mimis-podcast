@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 06:06:11 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:13:18 -0500</lastBuildDate>
+
+
+    <item>
+      <title>答えを急がず、暮らしを置く朝</title>
+      <description>米国中間選挙とバージニアビーチの投票日実務、京都の伝統産業と相談支援。十一月場所、ドジャース、ほてりの三行記録、聴解教材をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国中間選挙とバージニアビーチの投票日実務、京都の伝統産業と相談支援。十一月場所、ドジャース、ほてりの三行記録、聴解教材をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-03</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 06:13:18 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-03/episode.mp3" length="9782829" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>13:35</itunes:duration>
+      <itunes:episode>119</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
