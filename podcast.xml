@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 06:13:18 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:09:59 -0500</lastBuildDate>
+
+
+    <item>
+      <title>結果の先を、一文で見る朝</title>
+      <description>米国中間選挙の結果とバージニアビーチの非公式集計、京都の桜を守る外来昆虫対策。十一月場所、ドジャース、新しい更年期診療指針、仕事の日本語教材をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国中間選挙の結果とバージニアビーチの非公式集計、京都の桜を守る外来昆虫対策。十一月場所、ドジャース、新しい更年期診療指針、仕事の日本語教材をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-04</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-04</guid>
+      <pubDate>Wed, 04 Nov 2026 06:09:59 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-04/episode.mp3" length="11508525" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:59</itunes:duration>
+      <itunes:episode>120</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
