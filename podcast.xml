@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sun, 08 Nov 2026 06:15:08 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:25:12 -0500</lastBuildDate>
+
+
+    <item>
+      <title>一文だけ、確かな場所に置く朝</title>
+      <description>米国の生活費政策、バージニアビーチの会議と交通、京都の列車情報と防火。大相撲二日目、ドジャース、更年期ケア、『0秒前の彼女』をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の生活費政策、バージニアビーチの会議と交通、京都の列車情報と防火。大相撲二日目、ドジャース、更年期ケア、『0秒前の彼女』をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-09</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 06:25:12 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-09/episode.mp3" length="11524077" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:00</itunes:duration>
+      <itunes:episode>125</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
