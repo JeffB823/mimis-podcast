@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 06:25:12 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:14:25 -0500</lastBuildDate>
+
+
+    <item>
+      <title>決まる前の余白を持つ朝</title>
+      <description>米国のエネルギー法案、バージニアビーチ市議会、京都のパークアンドライド。大相撲三日目、ドジャースの新選手、更年期研究、『ロマンス』をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国のエネルギー法案、バージニアビーチ市議会、京都のパークアンドライド。大相撲三日目、ドジャースの新選手、更年期研究、『ロマンス』をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-10</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 06:14:25 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-10/episode.mp3" length="10868301" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:06</itunes:duration>
+      <itunes:episode>126</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
