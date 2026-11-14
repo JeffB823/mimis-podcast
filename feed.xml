@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 06:17:49 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 06:33:19 -0500</lastBuildDate>
+
+
+    <item>
+      <title>戻る場所を一つ決める朝</title>
+      <description>米国の航空管制障害、バージニアビーチ周辺の交通、京都の世界糖尿病デー。大相撲七日目、ドジャース、更年期デトックス、『幽民奇聞』をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の航空管制障害、バージニアビーチ周辺の交通、京都の世界糖尿病デー。大相撲七日目、ドジャース、更年期デトックス、『幽民奇聞』をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-14</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 06:33:19 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-14/episode.mp3" length="11410605" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:51</itunes:duration>
+      <itunes:episode>130</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
