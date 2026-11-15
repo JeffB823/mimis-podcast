@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sat, 14 Nov 2026 06:33:19 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:02:53 -0500</lastBuildDate>
+
+
+    <item>
+      <title>今朝の一歩を小さくする</title>
+      <description>航空管制障害後の回復、ハンプトンローズの夜間交通、京都の防災訓練。大相撲中日、ドジャース、更年期の眠り、『ソリティアおじさんがいた頃』をお届けします。</description>
+      <content:encoded><![CDATA[<p>航空管制障害後の回復、ハンプトンローズの夜間交通、京都の防災訓練。大相撲中日、ドジャース、更年期の眠り、『ソリティアおじさんがいた頃』をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-15</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 06:02:53 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-15/episode.mp3" length="11502765" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:58</itunes:duration>
+      <itunes:episode>131</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
