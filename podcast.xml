@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sun, 15 Nov 2026 06:02:53 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:12:29 -0500</lastBuildDate>
+
+
+    <item>
+      <title>急ぐ前に、総額を見る朝</title>
+      <description>感謝祭の移動費、ハンプトンローズの夜間交通、京都・京北の新しい移動実験。大相撲九日目、ドジャース、デトックスの根拠、『息のかたち』をお届けします。</description>
+      <content:encoded><![CDATA[<p>感謝祭の移動費、ハンプトンローズの夜間交通、京都・京北の新しい移動実験。大相撲九日目、ドジャース、デトックスの根拠、『息のかたち』をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-16</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 06:12:29 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-16/episode.mp3" length="11698029" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>16:15</itunes:duration>
+      <itunes:episode>132</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
