@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 06:31:56 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:32:59 -0500</lastBuildDate>
+
+
+    <item>
+      <title>確かな言葉を一つ置く朝</title>
+      <description>アラスカ上院選、バージニアビーチの学校資金案、京都の民泊規制案。大相撲十一日目、ドジャース、更年期の一行記録、『私の女の実』をお届けします。</description>
+      <content:encoded><![CDATA[<p>アラスカ上院選、バージニアビーチの学校資金案、京都の民泊規制案。大相撲十一日目、ドジャース、更年期の一行記録、『私の女の実』をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-18</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 06:32:59 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-18/episode.mp3" length="11508525" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:59</itunes:duration>
+      <itunes:episode>134</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
