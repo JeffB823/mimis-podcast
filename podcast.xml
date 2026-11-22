@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sat, 21 Nov 2026 06:13:35 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:13:50 -0500</lastBuildDate>
+
+
+    <item>
+      <title>今の自分がわかる印を残す朝</title>
+      <description>米国の空港拘束と旅への影響、バージニアビーチの日曜の雨、京都の紅葉交通対策。大の里の連覇、ドジャース、更年期の眠りの三行記録、日本語の「行く」と「来る」をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の空港拘束と旅への影響、バージニアビーチの日曜の雨、京都の紅葉交通対策。大の里の連覇、ドジャース、更年期の眠りの三行記録、日本語の「行く」と「来る」をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-22</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 06:13:50 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-22/episode.mp3" length="11435373" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:53</itunes:duration>
+      <itunes:episode>138</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
