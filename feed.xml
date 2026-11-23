@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Sun, 22 Nov 2026 06:13:50 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:30:39 -0500</lastBuildDate>
+
+
+    <item>
+      <title>次の一つを、普通へ戻す朝</title>
+      <description>気候会議の停滞、バージニアビーチの感謝祭の強風雨、京都の祝日交通。大の里、ドジャース、デトックスに頼らない次の一食、雨のオノマトペをお届けします。</description>
+      <content:encoded><![CDATA[<p>気候会議の停滞、バージニアビーチの感謝祭の強風雨、京都の祝日交通。大の里、ドジャース、デトックスに頼らない次の一食、雨のオノマトペをお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-23</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 06:30:39 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-23/episode.mp3" length="11483469" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:56</itunes:duration>
+      <itunes:episode>139</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
