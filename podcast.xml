@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 06:17:55 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:22:39 -0500</lastBuildDate>
+
+
+    <item>
+      <title>変わった空に、備えを一つ置く朝</title>
+      <description>米国の消費者心理とバージニアビーチの大雨・強風、京都の駅ナカ便り。大相撲、ドジャース、眠りの二行観察、今日発売の『文法の習得』をお届けします。</description>
+      <content:encoded><![CDATA[<p>米国の消費者心理とバージニアビーチの大雨・強風、京都の駅ナカ便り。大相撲、ドジャース、眠りの二行観察、今日発売の『文法の習得』をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-25</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 06:22:39 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-25/episode.mp3" length="11412333" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:51</itunes:duration>
+      <itunes:episode>141</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
