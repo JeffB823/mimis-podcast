@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Wed, 25 Nov 2026 06:22:39 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:58:48 -0500</lastBuildDate>
+
+
+    <item>
+      <title>予定より、安全を一つ先に置く朝</title>
+      <description>感謝祭の嵐とバージニアビーチの沿岸警報、京都の日本茶文化。冬巡業、ドジャース、食後の張りとクレンズ、自己表現の語彙学習をお届けします。</description>
+      <content:encoded><![CDATA[<p>感謝祭の嵐とバージニアビーチの沿岸警報、京都の日本茶文化。冬巡業、ドジャース、食後の張りとクレンズ、自己表現の語彙学習をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-26</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 14:58:48 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-26/episode.mp3" length="11445165" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:54</itunes:duration>
+      <itunes:episode>142</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
