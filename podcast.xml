@@ -23,7 +23,24 @@
       <title>Mimi&apos;s Podcast</title>
       <link>https://jeffb823.github.io/mimis-podcast/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 14:58:48 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:26:11 -0500</lastBuildDate>
+
+
+    <item>
+      <title>今の自分に合う順番をつくる朝</title>
+      <description>ブラックフライデーの家計判断とバージニアビーチの嵐の復旧、京都の文化支援。大相撲、ドジャース、更年期の眠り、多読の新刊をお届けします。</description>
+      <content:encoded><![CDATA[<p>ブラックフライデーの家計判断とバージニアビーチの嵐の復旧、京都の文化支援。大相撲、ドジャース、更年期の眠り、多読の新刊をお届けします。</p>]]></content:encoded>
+      <link>https://jeffb823.github.io/mimis-podcast/#episode-2026-11-27</link>
+      <guid isPermaLink="false">mimis-podcast-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 06:26:11 -0500</pubDate>
+      <enclosure url="https://jeffb823.github.io/mimis-podcast/output/2026-11-27/episode.mp3" length="11447181" type="audio/mpeg"/>
+      <itunes:author>Mimi</itunes:author>
+      <itunes:duration>15:54</itunes:duration>
+      <itunes:episode>143</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://jeffb823.github.io/mimis-podcast/artwork/mimis-podcast-cover-3000.jpg"/>
+    </item>
 
 
     <item>
